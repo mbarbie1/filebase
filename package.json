@@ -16,7 +16,12 @@
 		"filebrowser"
 	],
 	"author": "Michael Barbier <michael.barbier@gmail.com> (http://178.62.240.248/)",
-	"license": "LGPL v3",
+	"licenses": [
+		{
+			"type": "LGPL v3",
+			"url": "https://github.com/mbarbie1/filebase/blob/master/LICENSE"
+		}
+	],
 	"bugs": {
 		"url": "https://github.com/mbarbie1/filebase/issues"
 	},

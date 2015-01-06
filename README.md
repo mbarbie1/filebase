@@ -21,10 +21,6 @@ A filebrowser plugin for a website in node.js. The file-structure is maintained 
 
 	npm test
 
-## Contributing
-
-	??
-
 ## Release History
 
-* 0.0.0 Initial release
+* 0.0.0 Internal development version
